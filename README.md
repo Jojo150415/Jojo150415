@@ -5,10 +5,10 @@
 
 ## 🌟 À Propos de Nous  
 
-- **JOJO** : Développeur et co-créateur de **DAGB** et **Palmbay**, toujours prêt à coder des solutions innovantes.  
-- **Yusu** : Collaborateur clé sur DAGB, expert en JavaScript et Discord.js, avec un œil attentif sur les détails.  
+- **JOJO** : Développeur et co-créateur de **DAGB**, **PalmBay** et **Skylife**, toujours prêt à coder pour le plaisir d'autrui.  
+- **Yusu** : Collaborateur clé sur DAGB, expert en Backend et Discord.js, avec un œil attentif sur les détails.  
 
-> Ensemble, nous construisons des projets ambitieux pour **améliorer les serveurs Discord**, offrir des outils pratiques et repousser les limites de la créativité.
+> Ensemble, nous construisons des projets ambitieux pour **améliorer les serveurs Discord**, offrir des outils pratiques et repousser les limites de Discord et de la créativité.
 
 ---
 
