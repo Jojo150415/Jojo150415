@@ -1,6 +1,10 @@
 <h1 align="center">👋 Bienvenue sur mon GitHub</h1>
 <h3 align="center">🚀 Développeur Passionné | Créateur de DAGB, Palmbay & Skylife 🚀</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jojo150415&label=Visiteurs&color=brightgreen&style=flat" alt="Compteur de visiteurs">
+</p>
+
 ---
 
 ## 🌟 À Propos de moi  
@@ -74,7 +78,7 @@ Un serveur Minecraft créé avec **Eleven/Fluxio**, axé sur une expérience col
     <td align="center" style="padding: 20px;">
       <img src="https://avatars.githubusercontent.com/u/141464219?v=4" alt="Yusu" style="border-radius: 50%; width: 100px; height: 100px;">
       <h4>Yusu</h4>
-      <p>Créateur sur DAGB/PalmBay </p>
+      <p>Collaborateur sur DAGB/PalmBay</p>
       <a href="https://discord.com/users/900527489695236107" target="_blank">Voir le profil Discord</a>
     </td>
   </tr>
@@ -100,7 +104,7 @@ Un serveur Minecraft créé avec **Eleven/Fluxio**, axé sur une expérience col
 
 <p align="center">
   <a href="https://discord.com/users/731963832418828309"><img src="https://img.shields.io/badge/Discord%20JOJO-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord JOJO"></a>
-<a href="https://github.com/Jojo150415"><img src="https://img.shields.io/badge/GitHub%20Jojo-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Jojo"></a>
+  <a href="https://github.com/Jojo150415"><img src="https://img.shields.io/badge/GitHub%20Jojo-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Jojo"></a>
   <a href="https://discord.com/users/900527489695236107"><img src="https://img.shields.io/badge/Discord%20Yusu-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Yusu"></a>
   <a href="https://github.com/YusuDiscord"><img src="https://img.shields.io/badge/GitHub%20Yusu-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Yusu"></a>
 </p>
@@ -110,8 +114,8 @@ Un serveur Minecraft créé avec **Eleven/Fluxio**, axé sur une expérience col
 ## ⚡ Fun Facts  
 
 - 💻 J'adore créer des outils, bots, et scripts pour automatiser des tâches complexes afin de me faciliter mon travail.  
-- 🎯 Mon objectif : faire de **tout** mes projets, des projets fou mais réaliste sur Discord ou sur le web.  
-- 🚀 Toujours prêts à collaborer avec d'autres développeurs pour repousser les limites ! Même si je ne suis pas fan du travail d'équipe
+- 🎯 Mon objectif : faire de **tout** mes projets, des projets fous mais réalistes sur Discord ou sur le web.  
+- 🚀 Toujours prêts à collaborer avec d'autres développeurs pour repousser les limites ! Même si je ne suis pas fan du travail d'équipe.
 
 ---
 
