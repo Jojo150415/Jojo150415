@@ -3,7 +3,7 @@
 
 ---
 
-## 🌟 À Propos de Nous  
+## 🌟 À Propos de moi  
 
 - **JOJO** : Développeur et co-créateur de **DAGB**, **PalmBay** et **Skylife**, toujours prêt à coder pour le plaisir d'autrui.  
 - **Yusu** : Collaborateur clé sur DAGB, expert en Backend et Discord.js, avec un œil attentif sur les détails.  
