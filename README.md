@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋,je suis JOJO</h1>
+<h1 align="center">Salut 👋 ,je suis JOJO</h1>
 <h3 align="center">🚀 Developer Passionné | Créateur de DAGB & Palmbay 🚀</h3>
 
 <p align="center">
