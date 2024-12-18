@@ -93,7 +93,6 @@ Un serveur Minecraft créé avec **Eleven/Fluxio**, axé sur une expérience col
       <img src="https://amityfr.fr/amity_logo.png" alt="Stananas" style="border-radius: 50%; width: 100px; height: 100px;">
       <h4>Stananas</h4>
       <p>Créateur d'Amity</p>
-      <a href="https://discord.com/users/731614325558739014" target="_blank">Voir le profil Discord</a>
     </td>
   </tr>
 </table>
