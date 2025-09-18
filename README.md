@@ -10,9 +10,9 @@
 ## 🌟 À Propos de moi  
 
 - **JOJO** : Développeur et co-créateur de **Skylife**, toujours prêt à coder pour le plaisir d'autrui.  
-- **Yusu** : Collaborateur clé sur DAGB, expert en Backend et Discord.js, avec un œil attentif sur les détails.  
+- **Eleven** : Collaborateur clé sur Skylife, expert en IA et Discord.js, avec un œil attentif sur les détails.  
 
-> Ensemble, nous construisons des projets ambitieux pour **améliorer les serveurs Discord**, offrir des outils pratiques et repousser les limites de Discord et de la créativité.
+> Ensemble, nous construisons des projets ambitieux pour **améliorer les serveurs Discord**, offrir des outils pratiques et repousser les limites de Minecraft et de la créativité.
 
 ---
 
@@ -76,23 +76,22 @@ Un serveur Minecraft créé avec **Eleven/Fluxio**, axé sur une expérience col
       <a href="https://discord.com/users/731963832418828309" target="_blank">Voir le profil Discord</a>
     </td>
     <td align="center" style="padding: 20px;">
-      <img src="https://avatars.githubusercontent.com/u/141464219?v=4" alt="Yusu" style="border-radius: 50%; width: 100px; height: 100px;">
-      <h4>Yusu</h4>
-      <p>Collaborateur sur DAGB/PalmBay</p>
-      <a href="https://discord.com/users/900527489695236107" target="_blank">Voir le profil Discord</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px;">
       <img src="https://avatars.githubusercontent.com/u/173943930?v=4" alt="Eleven" style="border-radius: 50%; width: 100px; height: 100px;">
       <h4>Eleven</h4>
       <p>Créateur sur Skylife</p>
       <a href="https://discord.com/users/572498962188206091" target="_blank">Voir le profil Discord</a>
+  </tr>
+  <tr>
+        </td>
+    <td align="center" style="padding: 20px;">
+      <img src="https://avatars.githubusercontent.com/u/141464219?v=4" alt="Yusu" style="border-radius: 50%; width: 100px; height: 100px;">
+      <h4>Yusu</h4>
+      <p>Ex-Collaborateur sur DAGB/PalmBay</p>
     </td>
     <td align="center" style="padding: 20px;">
       <img src="https://amityfr.fr/amity_logo.png" alt="Stananas" style="border-radius: 50%; width: 100px; height: 100px;">
       <h4>Stananas</h4>
-      <p>Créateur d'Amity</p>
+      <p>Ex-Créateur d'Amity</p>
     </td>
   </tr>
 </table>
@@ -104,8 +103,8 @@ Un serveur Minecraft créé avec **Eleven/Fluxio**, axé sur une expérience col
 <p align="center">
   <a href="https://discord.com/users/731963832418828309"><img src="https://img.shields.io/badge/Discord%20JOJO-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord JOJO"></a>
   <a href="https://github.com/Jojo150415"><img src="https://img.shields.io/badge/GitHub%20Jojo-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Jojo"></a>
-  <a href="https://discord.com/users/900527489695236107"><img src="https://img.shields.io/badge/Discord%20Yusu-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Yusu"></a>
-  <a href="https://github.com/YusuDiscord"><img src="https://img.shields.io/badge/GitHub%20Yusu-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Yusu"></a>
+  <a href="https://discord.com/users/572498962188206091"><img src="https://img.shields.io/badge/Discord%20Eleven-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Eleven"></a>
+  <a href="https://github.com/Fluxioo"><img src="https://img.shields.io/badge/GitHub%20Eleven-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Eleven"></a>
 </p>
 
 ---
