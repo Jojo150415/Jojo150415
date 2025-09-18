@@ -1,5 +1,5 @@
 <h1 align="center">👋 Bienvenue sur mon GitHub</h1>
-<h3 align="center">🚀 Développeur Passionné | Créateur de DAGB, Palmbay & Skylife 🚀</h3>
+<h3 align="center">🚀 Développeur Passionné | Créateur de Skylife 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jojo150415&label=Visiteurs&color=brightgreen&style=flat" alt="Compteur de visiteurs">
@@ -9,7 +9,7 @@
 
 ## 🌟 À Propos de moi  
 
-- **JOJO** : Développeur et co-créateur de **DAGB**, **PalmBay** et **Skylife**, toujours prêt à coder pour le plaisir d'autrui.  
+- **JOJO** : Développeur et co-créateur de **Skylife**, toujours prêt à coder pour le plaisir d'autrui.  
 - **Yusu** : Collaborateur clé sur DAGB, expert en Backend et Discord.js, avec un œil attentif sur les détails.  
 
 > Ensemble, nous construisons des projets ambitieux pour **améliorer les serveurs Discord**, offrir des outils pratiques et repousser les limites de Discord et de la créativité.
@@ -22,7 +22,7 @@
   <tr>
     <td align="center" width="50%">
       <h4>Juin 2024 - Août 2024</h4>
-      <p>Développeur chez <a href="https://amityfr.fr" target="_blank">Amity RP</a>. Création de scripts pour enrichir l'expérience utilisateur.</p>
+      <p>Développeur chez <a href="https://amityfr.fr" target="_blank">Amity RP</a>. Création de scripts et sites web pour enrichir l'expérience utilisateur.</p>
     </td>
     <td align="center" width="50%">
       <h4>Septembre 2024</h4>
@@ -33,6 +33,12 @@
     <td align="center" colspan="2">
       <h4>Décembre 2024</h4>
       <p>Lancement et développement en cours des projets <b>DAGB</b> et <b>Palmbay</b>.</p>
+    </td>
+  </tr>
+    <tr>
+    <td align="center" colspan="2">
+      <h4>Juin 2025</h4>
+      <p>Reprise du développement du projet <b>Skylife</b> et de son ecosysteme.</p>
     </td>
   </tr>
 </table>
@@ -52,13 +58,7 @@
 
 ---
 
-## 🚀 Projets Principaux  
-
-### 🌌 [DAGB](https://dagb-roleplay.xyz)  
-Un bot Discord et un site web innovants conçus pour révolutionner les serveurs de rôleplay.
-
-### 🏝️ Palmbay  
-Un projet ambitieux et immersif, développé pour offrir des solutions modernes aux communautés en ligne.
+## 🚀 Projet Principal en cours  
 
 ### 🎮 Skylife  
 Un serveur Minecraft créé avec **Eleven/Fluxio**, axé sur une expérience collaborative et personnalisée.
